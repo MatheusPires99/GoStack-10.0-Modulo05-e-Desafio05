@@ -13,20 +13,21 @@ Nesse projetos desenvolvemos uma aplicação web em ReactJS.
 Essa aplicação é um sistema para adicionar repositórios do GitHub e podendo ver os detalhes de tal, tanto quanto as issues abertas e fechadas.
 
 ## :hammer: Para criação dessa aplicação utilizamos as seguintes ferramentas:
-- [React Navigation](https://reactnavigation.org/docs/en/getting-started.html)
-- [Styled Components](https://styled-components.com/)
-- [Axios](https://github.com/axios/axios)
-- [Reactotron](https://github.com/infinitered/reactotron)
-- [WebView](https://github.com/react-native-community/react-native-webview/blob/master/docs/Getting-Started.md)
-- [AsyncStorage](https://reactnative.dev/docs/asyncstorage)
+- Criação de componentes
+- Class e function components
+- Styled components
+- Navegação de rotas
+- Estado e imutabilidade
+- Propriedades
 - Default Props & PropTypes
 
 ## :computer: Resultado:
 
-![WebView](.github/Home-Modulo06.png)
-![WebView](.github/User1-Modulo06.png)
-![WebView](.github/User2-Modulo06.png)
-![WebView](.github/Repository-Modulo06.png)
+![ReactJS](.github/tela1.png)
+![ReactJS](.github/tela2.png)
+![ReactJS](.github/tela3.png)
+![ReactJS](.github/tela4.png)
+![ReactJS](.github/tela5.png)
 
 ## :memo: Licença
 
