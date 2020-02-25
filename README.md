@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Módulo e Desafio 06
+  Módulo e Desafio 05
 </h3>
 
 ## :rocket: Primeiro projeto com ReactJS
